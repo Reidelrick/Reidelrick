@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Reidelrick&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Innocence Studios) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/InnocenceStudios) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
